@@ -6,7 +6,6 @@ Algorytmy te obejmują metody heurystyczne, gradientowe oraz oparte na analizie 
 
 # Zaimplementowane algorytmy
 
-* Monte Carlo (MC) – metoda losowego przeszukiwania przestrzeni rozwiązań.
 * Rozszerzanie przedziału (Expansion) – metoda heurystyczna do znalezienia zakresu poszukiwań.
 * Metoda Fibonacciego (Fib) – optymalizacja wykorzystująca ciąg Fibonacciego.
 * Interpolacja kwadratowa (Lag) – metoda analityczna bazująca na aproksymacji kwadratowej.
