@@ -17,7 +17,3 @@ Algorytmy te obejmują metody heurystyczne, gradientowe oraz oparte na analizie 
 * Steepest Descent (SD) – metoda najszybszego spadku.
 * Conjugate Gradient (CG) – optymalizacja gradientowa.
 * Newton (Newton) – metoda drugiego rzędu wykorzystująca macierz Hessego.
-
-# Autor
-Kaoina
-Projekt stworzony do celów akademickich. 
